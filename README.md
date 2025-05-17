@@ -1,7 +1,6 @@
 # tu156-python-projects
 My first Python projects from TU156 course.
-# TU156 – Introduction to Scientific Programming (Thammasat University)
-
+TU156 – Introduction to Scientific Programming (Thammasat University)
 This repository showcases the programming projects and assignments I completed in Term 2, my first experience learning Python and software development in the context of data science.
 
 ## 📘 Course Outline (Highlights)
